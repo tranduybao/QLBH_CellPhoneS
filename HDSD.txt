@@ -1,0 +1,17 @@
+Bao gồm các thư mục 
+- DataBase (CellPhoneS_QLBH.mdf và CellPhoneS_QLBH_log.ldf (script.sql dự phòng))
+- DoAn_QLBHCellPhoneS
+- Nhom5_QuanLyBanHangCellPhoneS_5602.docx
+- Nhom5_QuanLyBanHangCellPhoneS_5602.pdf
+- HinhAnh (chứa ảnh DFD, BFD, ERD)
+- HDSD.txt
+
+Đối với nhân viên bán hàng
+- Tài khoản : nv2
+- Mật khẩu : 1
+Đối với quản lý
+- Tài khoản : ql
+- Mật khẩu : 1
+
+*Lưu ý*
+Nếu không chạy được (do kết nối CSDL) vui lòng đổi .\\SQLEXPRESS trong lớp kết nối thành tên Server máy bạn.
